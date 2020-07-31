@@ -14,9 +14,10 @@ namespace Roamer {
 
 	void Application::Run()
 	{
+		std::cout << "BLAH" << std::endl;
 		while (true)
 		{
-
+			
 		}
 	}
 
